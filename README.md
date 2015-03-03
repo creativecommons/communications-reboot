@@ -6,6 +6,6 @@ add description here (for reference, this was called "tell compelling stories" i
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Ryan Merkley](https://github.com/ryanmerkley)  |
-| Approvers  | ADD  |
-| Contributors | Add yourselves here |
+| Accountable  | ADD  |
+| Consulted | Add yourselves here |
 | Informed | Add yourselves here |
